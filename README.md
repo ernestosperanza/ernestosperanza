@@ -13,6 +13,8 @@ Welcome to my little corner of cyberspace. Here I share what I’m passionate ab
 🐦 Twitter: [@ernestosperanza](https://x.com/ernestosperanza)  
 💼 LinkedIn: [ernestosperanza](https://www.linkedin.com/in/ernestosperanza/)
 
+> *Live long and prosper 🖖*
+
 ## 🧰 Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -23,5 +25,3 @@ Welcome to my little corner of cyberspace. Here I share what I’m passionate ab
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Substrate](https://img.shields.io/badge/-Substrate-black?style=flat-square&logo=parity-substrate)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
-
-> *Live long and prosper 🖖*
