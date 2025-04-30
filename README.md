@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Ernesto (aka Pipo)
 
-<!--
-**ernestosperanza/ernestosperanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇾 Backend and blockchain developer — I enjoy building things, sharing ideas, and exploring technology.
 
-Here are some ideas to get you started:
+Welcome to my little corner of cyberspace. Here I share what I’m passionate about: software development, blockchain, game theory, business ideas — and sometimes art or side experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I work with **TypeScript, Ethereum, Algorand, Substrate, Rust, NestJS, and TypeORM**.
+- 🏘️ Founder of [Carpincho](https://github.com/ernestosperanza), a community project connecting tech, real estate, and investment.
+- 🧠 I’m obsessed with learning, documenting the journey, and sharing knowledge.
+- 🎤 Occasional speaker and contributor to open Web3 projects.
+
+📘 Blog: [ernestosperanza.com](https://www.ernestosperanza.com/)  
+🐦 Twitter: [@ernestosperanza](https://x.com/ernestosperanza)  
+💼 LinkedIn: [ernestosperanza](https://www.linkedin.com/in/ernestosperanza/)
+
+## 🧰 Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)
+![Algorand](https://img.shields.io/badge/-Algorand-black?style=flat-square&logo=algorand)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Substrate](https://img.shields.io/badge/-Substrate-black?style=flat-square&logo=parity-substrate)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
+
+> *Live long and prosper 🖖*
