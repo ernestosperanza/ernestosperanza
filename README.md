@@ -5,7 +5,6 @@
 Welcome to my little corner of cyberspace. Here I share what I’m passionate about: software development, blockchain, game theory, business ideas — and sometimes art or side experiments.
 
 - 💻 I work with **TypeScript, Ethereum, Algorand, Substrate, Rust, NestJS, and TypeORM**.
-- 🏘️ Founder of [Carpincho](https://github.com/ernestosperanza), a community project connecting tech, real estate, and investment.
 - 🧠 I’m obsessed with learning, documenting the journey, and sharing knowledge.
 - 🎤 Occasional speaker and contributor to open Web3 projects.
 
